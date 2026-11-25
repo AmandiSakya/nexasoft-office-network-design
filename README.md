@@ -75,7 +75,7 @@ This part selects and justifies the active network devices used in the design, a
 ## Group Members and Work Allocation
 
 | Part | Section  | Member |
-|---|---|---|---|
+|---|---|---|
 | 1 | Requirement analysis | Nimradha G. S. |
 | 2 | Logical network design | Perera M.R.S |
 | 3 | Physical design, cabling and AP placement | Elead E.M.P |
